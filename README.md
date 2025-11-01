@@ -23,57 +23,57 @@ All problems are organized by category (`arrays`, `linked-lists`, `stacks-queues
 
 ├─ arrays/
 
-│ ├─ 01-two-sum.js
+├─ 01-two-sum.js
 
-│ ├─ 02-sliding-window.js
+├─ 02-sliding-window.js
 
-│ ├─ 03-remove-duplicates.js
+├─ 03-remove-duplicates.js
 
-│ ├─ 04-binary-search.js
+├─ 04-binary-search.js
 
-│ └─ 05-palindrome.js
+└─ 05-palindrome.js
 
 │
 
 ├─ linked-lists/
 
-│ ├─ 01-reverse-linked-list.js
+├─ 01-reverse-linked-list.js
 
-│ ├─ 02-detect-cycle.js
+├─ 02-detect-cycle.js
 
-│ ├─ 03-merge-sorted-lists.js
+├─ 03-merge-sorted-lists.js
 
-│ └─ 04-find-middle.js
+└─ 04-find-middle.js
 
 │
 
 ├─ stacks-queues/
 
-│ ├─ 01-validate-parentheses.js
+├─ 01-validate-parentheses.js
 
-│ ├─ 02-stack-implementation.js
+├─ 02-stack-implementation.js
 
-│ └─ 03-queue-using-stacks.js
+└─ 03-queue-using-stacks.js
 
 │
 
 ├─ trees/
 
-│ ├─ 01-dfs.js
+├─ 01-dfs.js
 
-│ ├─ 02-bfs.js
+├─ 02-bfs.js
 
-│ └─ 03-balanced-tree.js
+└─ 03-balanced-tree.js
 
 │
 
 ├─ hashmaps/
 
-│ ├─ 01-frequency-counter.js
+├─ 01-frequency-counter.js
 
-│ ├─ 02-check-duplicates.js
+├─ 02-check-duplicates.js
 
-│ └─ 03-lru-cache.js
+└─ 03-lru-cache.js
 
 │
 
